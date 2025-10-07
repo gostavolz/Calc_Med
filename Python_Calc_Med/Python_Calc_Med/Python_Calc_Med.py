@@ -1,5 +1,6 @@
 
-a,b,c = map(int, input("Digite três números separados por espaço: ").split())
+a,b,c = map(int, input("Digite trÃªs nÃºmeros separados por espaÃ§o: ").split())
 med = (a + b + c) / 3
 
-print(f"A média aritmética é:", {med})
+
+print(f"A mÃ©dia aritmÃ©tica Ã©: {med}")
